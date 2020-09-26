@@ -1,0 +1,8 @@
+D:\C#\Exam002_ArrayList\Exam002_ArrayList\bin\Debug\Exam002_ArrayList.exe.config
+D:\C#\Exam002_ArrayList\Exam002_ArrayList\bin\Debug\Exam002_ArrayList.exe
+D:\C#\Exam002_ArrayList\Exam002_ArrayList\bin\Debug\Exam002_ArrayList.pdb
+D:\C#\Exam002_ArrayList\Exam002_ArrayList\obj\Debug\Exam002_ArrayList.Form1.resources
+D:\C#\Exam002_ArrayList\Exam002_ArrayList\obj\Debug\Exam002_ArrayList.Properties.Resources.resources
+D:\C#\Exam002_ArrayList\Exam002_ArrayList\obj\Debug\Exam002_ArrayList.csproj.GenerateResource.Cache
+D:\C#\Exam002_ArrayList\Exam002_ArrayList\obj\Debug\Exam002_ArrayList.exe
+D:\C#\Exam002_ArrayList\Exam002_ArrayList\obj\Debug\Exam002_ArrayList.pdb
